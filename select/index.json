@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "Training Season",
+  "base_artist": "Dua Lipa",
+  "createdAt": "2026-03-23T16:58:02.969351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/01_Training_Season_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Training Season - Extended",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/02_Training_Season_-_Extended_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Training Season (Extended) (Extended)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/03_Training_Season_(Extended)_(Extended)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/04_Training_Season_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Training Season (extended mix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/05_Training_Season_(extended_mix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Training Season - Acapella",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_Training_Season_-_Acapella_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Training Season (a cappella)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_Training_Season_(a_cappella)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Training Season - Instrumental",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/08_Training_Season_-_Instrumental_Dua_Lipa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/09_Training_Season_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Training Season - Live at the BRIT Awards 2024",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/10_Training_Season_-_Live_at_the_BRIT_Awards_2024_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/11_Training_Season_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Training Season - London Sessions",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/12_Training_Season_-_London_Sessions_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Training Season (Acapella)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/13_Training_Season_(Acapella)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dua Lipa - Training Season (Lyric Video)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/14_Dua_Lipa_-_Training_Season_(Lyric_Video)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Training Season (Live at the BRIT Awards 2024) (Live at the BRIT Awards 2024)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Training_Season_(Live_at_the_BRIT_Awards_2024)_(Live_at_the_BRIT_Awards_2024)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/16_Training_Season_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Training Season - Acoustic Version",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/17_Training_Season_-_Acoustic_Version_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Training Season (Extended)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/18_Training_Season_(Extended)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/pl_01_Training_Season_Dua_Lipa.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/localdb_01_Training_Season_Dua_Lipa.lrc",
+      "repo_name": "ZjBZ8MUnB0E"
+    }
+  ]
+}
